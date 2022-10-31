@@ -1,10 +1,13 @@
 # reto_tipty
 
-A new Flutter project.
+Proyecto reto para Tipty .
+Desarollado en flutter 2.10.2 ( Tomar en cuenta a la hora de descargar)
 
-## Getting Started
+## Consideraciones
 
-This project is a starting point for a Flutter application.
+El proyecto cubre la lectura de la api swapi de Star Wars y por cada personaje muestra sus peliculas
+El proyecto esta desarrollado con Arquitcura Limpia En modalidad Presentacion, Dominio Datos
+Hay que realizar las correcciones del radiobutton y el clik inicial al personaje
 
 A few resources to get you started if this is your first Flutter project:
 
